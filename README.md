@@ -70,4 +70,4 @@ To run the QuadTree Image Processor, ensure you have the following:
 ### Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/QuadTree-Image-Processor.git
+   git clone https://github.com/ndajani1/QuadTree-Image-Processor.git
